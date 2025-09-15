@@ -4,6 +4,8 @@ port = 7125
 max_upload_size = 1024
 klippy_uds_address = ~/printer_data/comms/klippy.sock
 
+[shell_command]
+
 [file_manager]
 enable_object_processing = False
 
